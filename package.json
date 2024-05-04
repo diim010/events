@@ -1,0 +1,20 @@
+{
+  "name": "events-calemdar",
+  "version": "1.0.0",
+  "description": "Events calendar plugin",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diim010",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.72.0"
+  },
+  "dependencies": {
+    "gulp-zip": "^6.0.0",
+    "uikit": "^3.20.8"
+  }
+}
